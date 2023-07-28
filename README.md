@@ -40,10 +40,15 @@ The ol tag in HTML represents an ordered list and has one optional attribute:
 
 type: Specifies the numbering style for the ordered list. It can take values like "1" (default, decimal numbering), "A" (uppercase letters), "a" (lowercase letters), "I" (uppercase Roman numerals), and "i" (lowercase Roman numerals).
 
-![4A](https://github.com/Mayankkatheriya/Assignment_2-Cat_Photo_App/assets/128832286/aa4376ee-9a0f-49a3-bb32-76b9d39f76fd)
-![4](https://github.com/Mayankkatheriya/Assignment_2-Cat_Photo_App/assets/128832286/b3db6a17-c3e4-4d17-acaf-b0ff1261859f)
+![image](https://github.com/Mayankkatheriya/Assignment_2-Cat_Photo_App/assets/128832286/1d763aa4-1421-4007-8cdf-cc6c042077ed)
+![image](https://github.com/Mayankkatheriya/Assignment_2-Cat_Photo_App/assets/128832286/307499d3-37cb-4e26-9a26-f3cfccb5234a)
+
 
 table: Creates a table to display tabular data.
+
+frame: This attribute is used to specify whether or not to display borders around the table.
+
+rules: This attribute is used to control the display of borders between cells.
 
 thead: Represents the table header section.
 
